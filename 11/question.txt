@@ -1,0 +1,7 @@
+Question:
+In this exercise, you minified your stylesheet. What is the difference
+in file size between the original and the minified file?
+
+Answer:
+The full unminified CSS file is 5.8 kilobytes, while the minified CSS
+file is 3.8 kilobytes, less than two-thirds the size of the original.
