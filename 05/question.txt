@@ -1,0 +1,34 @@
+Question:
+You have learned how to add id and class attributes to an HTML
+element. Can an HTML element contain both an id and a class value?
+If so, provide an example of a style rule for the id and the class.
+
+Answer:
+Elements in HTML can use both a class and an id. In fact, I just
+did this during my unit 1 project. Here is the CSS I used, as
+well as an example of div elements using both a class and an id.
+
+CSS:
+.col{
+	position: fixed;
+	width: 30%;
+	height: 100%;
+	overflow-x: hidden;
+	z-index: 1;
+}
+#left{
+	left: 0;
+	padding-left: 18%;
+}
+#right{
+	right: 0;
+	padding-right: 18%;
+}
+
+HTML:
+<div class="col" id="left">
+	<p>...
+</div>
+<div class="col" id="right">
+	<p>...
+</div>
