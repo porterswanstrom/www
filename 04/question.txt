@@ -1,0 +1,7 @@
+Question:
+In this assignment, you specified several hexadecimal color values. Find the
+RGB and HSL color value codes for two hexadecimal colors used in this lab.
+
+Answer:
+#F6EEE4 is equivalent to rgb(246,238,228) in RGB and hsl(33.3,50%,92.9%) in HSL.
+#2A1F14 is equivalent to rgb(42,31,20) in RGB and hsl(30,35.5%,12.2%) in HSL.
