@@ -1,0 +1,22 @@
+Question:
+In step 14, you created a style rule for a gradient. Discuss
+at least three different ways this gradient could be applied.
+
+Answer:
+Some alternative ways to create this gradient would be:
+
+1. background: linear-gradient(hsl(33,50%,93%),hsl(30,35%,35%));
+
+    Using HSL colors values instead of hexadecimal color values
+
+2. background-image: src("gradient.png");
+
+    Designing a gradient image to use as the background
+
+3. background: linear-gradient(180deg,#F6EEE4,#78593A);
+
+    Specifying the rotation of the gradient to 180 degrees
+
+4. background: linear-gradient(rgb(246,238,228),rgb(120,89,58));
+
+    Using RGB colors values instead of hexadecimal color values
