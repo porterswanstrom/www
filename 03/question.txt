@@ -1,0 +1,9 @@
+Question:
+In this assignment, you added links within the navigation element.
+The navigation link text is currently within a paragraph element. Is
+a paragraph element the best element for navigation links? Research to
+find your answer and identify another element to use for navigation links.
+
+Answer:
+Navigation links should be nested in the <nav> element. In this assignment
+the <p> element inside of the <nav> element could/should have been omitted.
