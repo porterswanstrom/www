@@ -1,0 +1,32 @@
+Question:
+In this assignment, you created style rules for the aside,
+figure, and figcaption elements. Discuss at least three
+different declarations you would use to improve the
+appearance of these elements.
+
+Answer:
+
+1. Shrink the figure element border:
+figure{
+	border: 2px solid #2A1F14;
+}
+
+2. Remove the text shadow from the figcaption element:
+figcaption{
+	text-shadow: 0px 0px 0px #000000;
+}
+
+3. Shrink the figcaption element top border:
+figcaption{
+	border-top: 3px solid #2A1F14;
+}
+
+4. Add a subtle padding to the figure element:
+figure{
+	padding: 0.3%;
+}
+
+5. Use a better looking font for the aside element:
+aside{
+	font-family: "Emblema One",system-ui;
+}
