@@ -1,0 +1,38 @@
+Question:
+In this exercise, you used an onclick event handler to call
+each function. Research the addEventListener() method, and
+explain how you would use it instead of an onclick event
+handler to call the functions.
+
+Answer:
+To use addEventListener(), I would replace the HTML onclick
+attributes with ID attributes. I could then use addEventListener()
+in combination with document.getElementById() to run a specific
+function depending on which HTML paragraph is clicked.
+
+HTML:
+<main>
+	<div id="questions">
+		<p id="q1">How can I determine if a baby animal
+		is an orphan?</p>
+		<p id="q2">How can I tell if an animal has
+		rabies?</p>
+		<p id="q3">I found a baby bird that fell from
+		its nest. Will the parents orphan it if I touch it?</p>
+		<p id="q4">How can I volunteer?</p>
+	</div>
+	<div id="answer">
+		<h2>Answer:</h2>
+		<p></p>
+	</div>
+</main>
+
+JS:
+var q1 = document.getElementById("q1");
+q1.addEventListener("click",ans1);
+var q2 = document.getElementById("q2");
+q2.addEventListener("click",ans2);
+var q3 = document.getElementById("q3");
+q3.addEventListener("click",ans3);
+var q4 = document.getElementById("q4");
+q4.addEventListener("click",ans4);
