@@ -1,0 +1,8 @@
+Question:
+In steps 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, and 11, you created and
+validated an HTML template. What are the benefits of creating a
+template prior to creating the home page?
+
+Answer:
+Templates help to maintain consistency when designing a website.
+Templates also make the creation of new web pages effortless.
