@@ -1,0 +1,24 @@
+Question:
+In this assignment, you added a video element and made it
+accessible by including captions and descriptions files.
+Is it possible to style captions? Research to find your
+answer and include an example of your findings.
+
+Answer:
+Yes it is possable to style video captions. This is
+done from the .vtt file or via an external CSS file.
+
+.vtt example:
+
+6
+00:29.000 --> 00:31.500 position:64%,line-right align:center size:32%
+Prince’s hooves are in <b>bad</b> shape.
+
+
+CSS example:
+
+::cue{
+	color: #EEBB99;
+	background: #000000;
+	font-family: sans-serif;
+}
