@@ -1,0 +1,19 @@
+Question:
+In this exercise, you added Facebook and Twitter logos to the
+footer element. Research how you can use Font Awesome to add
+social media icons to a webpage and summarize your findings.
+
+Answer:
+To use Font Awesome icons you need to link to the Font Awesome
+CSS file from the <head> element within all of your HTML pages.
+You can then add icons via the class attribute.
+
+Example HTML:
+
+<head>
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.7.1/css/all.css">
+</head>
+<body>
+	<a href="facebook.com" class="fab fa-facebook"></a>
+	<a href="twitter.com" class="fab fa-twitter"></a>
+</body>
