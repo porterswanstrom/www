@@ -1,0 +1,12 @@
+Question:
+Research the date type input control. Is this input type
+supported by all major browsers? Note your findings.
+
+Answer:
+It seems to be pretty widely supported by mainstream browsers,
+though some features aren't fully implemented in certain browsers.
+
+Sources:
+1. https://caniuse.com/input-datetime
+2. https://www.w3schools.com/TAGS/att_input_type_date.asp
+3. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/date#browser_compatibility
