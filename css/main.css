@@ -1,20 +1,18 @@
 @charset "utf-8";
 
 html, body{
-	font:400 11.6pt serif;
+	font:400 11.7pt serif;
 	background-color: #FFFEFC;
 	color: #0F0800;
 	margin:0;
-	padding:0;
 	height:100%;
-	min-height:100%;
-	position:relative
+	/*min-height:100%;*/
+	/*position:relative*/
 }
 
 h1{font-size:110%}
 h2{font-size:115%}
 h3{font-size:100%}
-
 
 p{width:80ch}
 
@@ -35,12 +33,10 @@ img{
 	color:#CCCCCC;
 	padding:10pt 20%
 }
-
 .head a{
 	color:#000055;
 	text-decoration:none
 }
-
 .head a:hover{background-color:#EFEFEF}
 
 .body{padding: 20pt 18% 60pt 18%}
