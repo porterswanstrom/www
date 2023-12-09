@@ -11,32 +11,36 @@ html, body{
 	position:relative
 }
 
-a{color: #000077}
-
 h1{
 	font-size:110%;
-	display:inline
+/*	display:inline*/
 }
 
 h2{font-size:115%}
 
 h3{font-size:100%}
 
+
+p{width:80ch}
+
+a{color: #000077}
+
 img{
 	margin-left:4%;
 	box-shadow:3px 3px 8px 4px lightgrey
 }
 
-.main{
+/*.main{
 	min-height:100%;
 	position:relative
-}
+}*/
 
 .head{
 	font:400 1.2em sans;
-	background-color:#FFFFFF;
-	padding:10pt 16%;
-	box-shadow:3px 3px 8px 4px lightgrey
+	/* background-color:#FFFFFF; */
+	color:#CCCCCC;
+	padding:10pt 20%;
+	/* box-shadow:3px 3px 8px 4px lightgrey */
 }
 
 .head a{
@@ -44,9 +48,9 @@ img{
 	text-decoration:none
 }
 
-.head a:hover{background-color: #EFEFEF}
+.head a:hover{background-color:#EFEFEF}
 
-.body{padding: 20pt 14% 60pt 14%}
+.body{padding: 20pt 18% 60pt 18%}
 
 .foot{
 	font-size: 0.7em;
