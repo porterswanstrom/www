@@ -11,13 +11,8 @@ html, body{
 	position:relative
 }
 
-h1{
-	font-size:110%;
-/*	display:inline*/
-}
-
+h1{font-size:110%}
 h2{font-size:115%}
-
 h3{font-size:100%}
 
 
@@ -27,20 +22,13 @@ a{color: #000077}
 
 img{
 	margin-left:4%;
-	box-shadow:3px 3px 8px 4px lightgrey
+/*	box-shadow:3px 3px 8px 4px lightgrey*/
 }
-
-/*.main{
-	min-height:100%;
-	position:relative
-}*/
 
 .head{
 	font:400 1.2em sans;
-	/* background-color:#FFFFFF; */
 	color:#CCCCCC;
 	padding:10pt 20%;
-	/* box-shadow:3px 3px 8px 4px lightgrey */
 }
 
 .head a{
