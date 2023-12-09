@@ -22,13 +22,18 @@ a{color: #000077}
 
 img{
 	margin-left:4%;
-/*	box-shadow:3px 3px 8px 4px lightgrey*/
+	/*box-shadow:3px 3px 8px 4px lightgrey*/
+}
+
+.main{
+	min-height:100%;
+	position:relative
 }
 
 .head{
 	font:400 1.2em sans;
 	color:#CCCCCC;
-	padding:10pt 20%;
+	padding:10pt 20%
 }
 
 .head a{
@@ -48,4 +53,9 @@ img{
 	width:100%;
 	padding-top:9pt;
 	padding-bottom:9pt
+}
+
+.code{
+	font:400 9.4pt mono;
+	padding-left:3%
 }
