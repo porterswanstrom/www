@@ -12,23 +12,23 @@ html, body{
 
 h1{
 	font-size:120%;
-	color:#EE6600;
+	color:#DD4400;
 	padding-left:3.5%
 }
 h2{
 	font-size:125%;
-	color:#DD5500;
+	color:#DD4400;
 	padding-left:1.2%
 }
 h3{
 	font-size:110%;
-	color:#CC88CC;
+	color:#BB77BB;
 	padding-left:.3%
 }
 
 a{
 	font-size:110%;
-	color:#55EE55;
+	color:#55CC55;
 	text-decoration:none
 }
 
@@ -59,7 +59,7 @@ img{margin-left:4%;}
 	padding-bottom:9pt
 }
 
-.code{
-	font:400 9.4pt mono;
+.sh{
+	font:400 77% mono;
 	padding-left:3%
 }
