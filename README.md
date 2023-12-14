@@ -1,4 +1,4 @@
-## Web
+### WWW
 
 This is the source code for my website. Currently It's just a few html
 files and one css file that I host as a static site on kinsta.
@@ -7,7 +7,7 @@ files and one css file that I host as a static site on kinsta.
 
 #### 12/09/23
 I just started my website on the 6th, I'm hosting it on kinsta and so far the
-only pages are the homepage, projects page, and this page. I also started to add
+only pages are the homepage, projects page, and about page. I also started to add
 some basic css and successfully got a working header and footer.
 
 #### 12/10/23
