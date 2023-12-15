@@ -2,8 +2,8 @@
 
 html, body{
 	font:400 105% sans-serif;
-	background-color:#200030;
-	color:#FFF000;
+	background-color:#100018;
+	color:#DDD000;
 	margin:0;
 	height:100%;
 	/*min-height:100%;*/
@@ -11,24 +11,24 @@ html, body{
 }
 
 h1{
-	font-size:120%;
-	color:#DD4400;
-	padding-left:3.5%
+	font-size:125%;
+	color:#BB2200;
+	padding-left:4.2%
 }
 h2{
 	font-size:125%;
-	color:#DD4400;
+	color:#BB2200;
 	padding-left:1.2%
 }
 h3{
 	font-size:110%;
-	color:#BB77BB;
+	color:#995599;
 	padding-left:.3%
 }
 
 a{
 	font-size:110%;
-	color:#55CC55;
+	color:#33AA33;
 	text-decoration:none
 }
 
@@ -47,7 +47,7 @@ img{margin-left:4%;}
 	padding:40pt 20%
 }
 
-.body{padding: 0pt 30% 60pt 19%}
+.body{padding: 0pt 5% 60pt 5%}
 
 .foot{
 	font-size: 0.7em;
@@ -67,13 +67,48 @@ img{margin-left:4%;}
 @media(prefers-color-scheme:light){
 	html, body{
 		background-color:#F0F2F4;
-		color:#773311
+		color:#553311
 	}
 
-	h1{color:#773311}
-	h2{color:#773311}
-	h3{color:#664499}
+	h1{color:#884433}
+	h2{color:#884433}
+	h3{color:#7755AA}
 
-	a{color:#1133EE}
+	a{color:#113399}
 	a:hover{color:#000000}
+}
+
+@media all and (max-width:1800px){
+	.body{padding: 0pt 35% 60pt 35%}
+	.head{padding:40pt 35%}
+}
+
+@media all and (max-width:1600px){
+	.body{padding: 0pt 30% 60pt 30%}
+	.head{padding:40pt 30%}
+}
+
+@media all and (max-width:1400px){
+	.body{padding: 0pt 25% 60pt 25%}
+	.head{padding:40pt 25%}
+}
+
+@media all and (max-width:1200px){
+	.body{padding: 0pt 20% 60pt 20%}
+	.head{padding:40pt 20%}
+}
+
+@media all and (max-width:1000px){
+	.body{padding: 0pt 15% 60pt 15%}
+	.head{padding:40pt 15%}
+}
+
+@media all and (max-width:800px){
+	.body{padding: 0pt 10% 60pt 10%}
+	.head{padding:40pt 10%}
+}
+
+@media all and (max-width:600px){
+	.body{padding: 0pt 5% 60pt 5%}
+	.head{padding:40pt 5%}
 }
