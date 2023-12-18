@@ -2,8 +2,8 @@
 
 html, body{
 	font:400 105% sans-serif;
-	background-color:#001800;
-	color:#DDDAAA;
+	background-color:#040008;
+	color:#FFD088;
 	margin:0;
 	height:100%
 }
@@ -11,7 +11,7 @@ html, body{
 h1{
 	font-size:125%;
 	color:#BB2200;
-	padding-left:4.2%
+	padding-left:1.6%
 }
 h2{
 	font-size:125%;
@@ -42,10 +42,10 @@ img{margin-left:4%;}
 .head{
 	font:400 120% sans;
 	color:#999000;
-	padding:40pt 20%
+	padding:40pt 26%
 }
 
-.body{padding: 0pt 5% 60pt 5%}
+.body{padding: 0pt 26% 60pt 26%}
 
 .foot{
 	font-size: 70%;
@@ -76,37 +76,32 @@ img{margin-left:4%;}
 	a:hover{color:#000000}
 }
 
-@media all and (max-width:1800px){
-	.body{padding: 0pt 35% 60pt 35%}
-	.head{padding:40pt 35%}
+@media all and (min-width:600px){
+	.body{padding: 0pt 5% 60pt 5%}
+	.head{padding:40pt 5%}
 }
 
-@media all and (max-width:1600px){
-	.body{padding: 0pt 30% 60pt 30%}
-	.head{padding:40pt 30%}
-}
-
-@media all and (max-width:1400px){
-	.body{padding: 0pt 25% 60pt 25%}
-	.head{padding:40pt 25%}
-}
-
-@media all and (max-width:1200px){
-	.body{padding: 0pt 20% 60pt 20%}
-	.head{padding:40pt 20%}
-}
-
-@media all and (max-width:1000px){
-	.body{padding: 0pt 15% 60pt 15%}
-	.head{padding:40pt 15%}
-}
-
-@media all and (max-width:800px){
+@media all and (min-width:800px){
 	.body{padding: 0pt 10% 60pt 10%}
 	.head{padding:40pt 10%}
 }
 
-@media all and (max-width:600px){
-	.body{padding: 0pt 5% 60pt 5%}
-	.head{padding:40pt 5%}
+@media all and (min-width:1000px){
+	.body{padding: 0pt 15% 60pt 15%}
+	.head{padding:40pt 15%}
+}
+
+@media all and (min-width:1200px){
+	.body{padding: 0pt 20% 60pt 20%}
+	.head{padding:40pt 20%}
+}
+
+@media all and (min-width:1400px){
+	.body{padding: 0pt 25% 60pt 25%}
+	.head{padding:40pt 25%}
+}
+
+@media all and (min-width:1600px){
+	.body{padding: 0pt 30% 60pt 30%}
+	.head{padding:40pt 30%}
 }
