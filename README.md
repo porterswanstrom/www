@@ -17,3 +17,7 @@ links, a lot of redish orange headers, and a few purple headers.
 #### 12/13/23
 Today I designed a light mode for the website and added css to set the
 theme depending on whether someone is using dark mode or light mode.
+
+#### 12/18/23
+I figured out how to get the font size to work right on mobile, so now
+my website looks great on mobile.
