@@ -62,7 +62,7 @@ img{margin-left:4%;}
 	padding-left:3%
 }
 
-@media(prefers-color-scheme:light){
+/*@media(prefers-color-scheme:light){
 	html, body{
 		background-color:#F0F2F4;
 		color:#553311
@@ -74,7 +74,7 @@ img{margin-left:4%;}
 
 	a{color:#113399}
 	a:hover{color:#000000}
-}
+}*/
 
 @media all and (max-width:1800px){
 	.body{padding: 0pt 35% 60pt 35%}
