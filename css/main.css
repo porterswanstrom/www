@@ -43,10 +43,10 @@ img{margin-left:4%}
 	padding:40pt 5%
 }
 
-.body{padding: 0pt 5% 60pt 5%}
+.body{padding:0pt 5% 60pt 5%}
 
 .foot{
-	font-size: 70%;
+	font-size:70%;
 	position:absolute;
 	text-align:center;
 	bottom:0;
@@ -75,31 +75,31 @@ img{margin-left:4%}
 }
 
 @media all and (min-width:600px){
-	.body{padding: 0pt 5% 60pt 5%}
+	.body{padding:0pt 5% 60pt 5%}
 	.head{padding:40pt 5%}
 }
 
 @media all and (min-width:800px){
-	.body{padding: 0pt 10% 60pt 10%}
+	.body{padding:0pt 10% 60pt 10%}
 	.head{padding:40pt 10%}
 }
 
 @media all and (min-width:1000px){
-	.body{padding: 0pt 15% 60pt 15%}
+	.body{padding:0pt 15% 60pt 15%}
 	.head{padding:40pt 15%}
 }
 
 @media all and (min-width:1200px){
-	.body{padding: 0pt 20% 60pt 20%}
+	.body{padding:0pt 20% 60pt 20%}
 	.head{padding:40pt 20%}
 }
 
 @media all and (min-width:1400px){
-	.body{padding: 0pt 25% 60pt 25%}
+	.body{padding:0pt 25% 60pt 25%}
 	.head{padding:40pt 25%}
 }
 
 @media all and (min-width:1600px){
-	.body{padding: 0pt 30% 60pt 30%}
+	.body{padding:0pt 30% 60pt 30%}
 	.head{padding:40pt 30%}
 }
