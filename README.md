@@ -1,18 +1,17 @@
 ### WWW
 
-This is the source code for http://PorterSwanstrom.com, currently
+This is the source code for http://w.PorterSwanstrom.com, currently
 it's just a few html files and one css file that I host as a static
 site on kinsta.
 
 ### Log
 
 #### 12/31/23
-I got the domain name porterswanstrom.com and created two A records, one
-linking to the main website and the other linking to dev.porterswanstrom.com.
+I got the domain name porterswanstrom.com and created two A records,
+one for w.porterswanstrom.com and the other for dev.porterswanstrom.com.
 I've setup dev.porterswanstrom.com to auto-redeploy every time I make a
 change to the website so that I can test the website before deploying to
-porterswanstrom.com. I also made it so the website will auto-redirect
-www.porterswanstrom.com to porterswanstrom.com.
+w.porterswanstrom.com.
 
 #### 12/18/23
 I figured out how to get the font size to work right on mobile, so now
