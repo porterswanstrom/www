@@ -1,34 +1,34 @@
 html, body{
-	font:400 105% sans-serif;
-	background-color:#0B000F;
-	color:#FFEEAA;
+	font:400 105% serif;
+	background-color:#002600;
+	color:#EEBB99;
 	margin:0;
 	height:100%
 }
 
 h1{
 	font-size:125%;
-	color:#AF0000;
+	color:#CC9977;
 	padding-left:1.6%
 }
 h2{
 	font-size:125%;
-	color:#A00000;
+	color:#AA7755;
 	padding-left:1.2%
 }
 h3{
 	font-size:110%;
-	color:#884488;
+	color:#847884;
 	padding-left:.3%
 }
 
 a{
 	font-size:110%;
-	color:#77AA77;
+	color:#989888;
 	text-decoration:none
 }
 
-a:hover{color:#FFFFFF}
+a:hover{color:#EEEEEE}
 
 img{margin-left:4%}
 
