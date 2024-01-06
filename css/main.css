@@ -1,6 +1,6 @@
 html, body{
 	font:400 105% serif;
-	background-color:#002600;
+	background-color:#000900;
 	color:#EEBB99;
 	margin:0;
 	height:100%
@@ -62,16 +62,18 @@ img{margin-left:4%}
 
 @media(prefers-color-scheme:light){
 	html, body{
-		background-color:#EAECEF;
-		color:#553311
+		background-color:#F8F6E0;
+		color:#000009
 	}
 
-	h1{color:#773322}
-	h2{color:#884433}
-	h3{color:#7755AA}
+	h1{color:#602000}
+	h2{color:#704020}
+	h3{color:#403060}
 
-	a{color:#335577}
+	a{color:#004040}
 	a:hover{color:#000000}
+
+	.head{color:#555555}
 }
 
 @media all and (min-width:600px){
