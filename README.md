@@ -1,6 +1,6 @@
 ### WWW
 
-This is the source code for http://w.PorterSwanstrom.com, currently
+This is the source code for http://w.porterswanstrom.com, currently
 it's just a few html files and one css file that I host as a static
 site on kinsta.
 
