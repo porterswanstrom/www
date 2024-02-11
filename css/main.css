@@ -1,5 +1,5 @@
 html, body{
-	font:400 105% serif;
+	font:400 98% serif;
 	background-color:#000900;
 	color:#EEBB99;
 	margin:0;
@@ -39,8 +39,9 @@ img{margin-left:4%}
 
 .head{
 	font:400 120% sans;
+	/* text-align:center; */
 	color:#999000;
-	padding:40pt 5%
+	padding:35pt 15% 35pt 15%
 }
 
 .body{padding:0pt 5% 60pt 5%}
@@ -76,32 +77,32 @@ img{margin-left:4%}
 	.head{color:#555555}
 }
 
-@media all and (min-width:600px){
-	.body{padding:0pt 5% 60pt 5%}
-	.head{padding:40pt 5%}
+@media all and (min-width:0px){
+	.body{padding:0pt 12% 60pt 12%}
+	.head{padding:28pt 15% 28pt 15%}
 }
 
 @media all and (min-width:800px){
-	.body{padding:0pt 10% 60pt 10%}
-	.head{padding:40pt 10%}
+	.body{padding:0pt 20% 60pt 20%}
+	.head{padding:28pt 28% 28pt 28%}
 }
 
 @media all and (min-width:1000px){
-	.body{padding:0pt 15% 60pt 15%}
-	.head{padding:40pt 15%}
+	.body{padding:0pt 20% 60pt 20%}
+	.head{padding:28pt 25% 28pt 25%}
 }
 
 @media all and (min-width:1200px){
-	.body{padding:0pt 20% 60pt 20%}
-	.head{padding:40pt 20%}
+	.body{padding:0pt 30% 60pt 30%}
+	.head{padding:28pt 37% 28pt 37%}
 }
 
 @media all and (min-width:1400px){
-	.body{padding:0pt 25% 60pt 25%}
-	.head{padding:40pt 25%}
+	.body{padding:0pt 28% 60pt 28%}
+	.head{padding:28pt 32% 28pt 32%}
 }
 
 @media all and (min-width:1600px){
-	.body{padding:0pt 30% 60pt 30%}
-	.head{padding:40pt 30%}
+	.body{padding:0pt 32% 60pt 32%}
+	.head{padding:28pt 37% 28pt 37%}
 }
